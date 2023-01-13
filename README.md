@@ -2,6 +2,7 @@
 
 # Acid44 
 Acid44 is a custom split keyboard with a custom 44 key layout and 2 oled screens
+![render](https://github.com/IstratieStefan/Acid44/blob/main/Renders/45degree.PNG)
 
 ## How to set up 
 
