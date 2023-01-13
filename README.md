@@ -21,5 +21,6 @@ Print the files from the `Print Files` folder
 |Wire|  | As much as you need|
 |Screws|[M3 countersink 10-12 mm](https://www.amazon.com/binifiMux-360pcs-Countersunk-Phillips-Machine/dp/B08N5XDHMW/ref=sr_1_3?crid=2PYPUDT2PTZOA&keywords=m3+countersunk+screws&qid=1673643479&sprefix=m3+countersunk+screws%2Caps%2C199&sr=8-3)|14 (or more)|
 
+[Build Guide](https://github.com/IstratieStefan/Acid44/wiki)
 ### Special thanks to Rokeys for being an awesome community! With love, form Romania.
 </div>
